@@ -1,18 +1,8 @@
-# napkin_math
+# Napkin Math
 
-A Flutter app to quickly calculate percentages. Math is hard.
+An app made in [Flutter](https://flutter.dev) to quickly calculate percentage differences in stock prices.
+Additional buttons to quickly determine what the price would need to reach to get that percentage.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Napkin-Math" 
-"# Napkin-Math" 
+![Demo](https://user-images.githubusercontent.com/73316704/141601764-351ab76d-3a2e-4d28-aaa7-937671aec669.png)
